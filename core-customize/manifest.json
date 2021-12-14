@@ -109,6 +109,10 @@
             "value": "-Dfile.encoding=UTF-8 -Duser.language=de -Duser.country=DE -Duser.region.=DE -Duser.timezone=UTC"
         },
         {
+            "key": "hybris_language",
+            "value": "de"
+        },
+        {
             "key": "duser.language",
             "value": "de"
         },
