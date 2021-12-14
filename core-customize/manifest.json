@@ -110,11 +110,11 @@
         },
         {
             "key": "hybris_language",
-            "value": "de"
+            "value": "-Duser.language=de"
         },
         {
             "key": "hybris.language",
-            "value": "de"
+            "value": "-Duser.language=de"
         },
         {
             "key": "duser.language",
